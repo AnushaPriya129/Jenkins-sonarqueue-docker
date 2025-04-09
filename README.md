@@ -1,2 +1,2 @@
-# CICD_Project using DevOps tools
+# CICD_Project 
 This is about real time CICD project.
